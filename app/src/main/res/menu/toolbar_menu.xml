@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Sleep Timer On"
+        android:id="@+id/sleeptimer_id"
+        />
+    <item
+        android:title="Suffel Music On"
+        android:id="@+id/suffel_id"
+        />
+
+
+</menu>
