@@ -1,4 +1,8 @@
 # SamMusicPlayer
+
+#### Download app apk:https://github.com/SamriddhaS/SamMusicPlayer/blob/master/download%20apk/SamMusicApp.apk
+
+
 This is a music player application.User can use this application to listen music on their android mobile. Its a very light weight application containing features like auto sleep option,music suffel,background playing,theme changing with song etc.
 1.All songs from internal storage.
 2.Playback control from notification panel and ui: play,pause,next,privious.
